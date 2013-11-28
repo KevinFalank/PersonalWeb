@@ -47,17 +47,31 @@ ul.nav li a {
 	color: #FAF3BC;
 }
 
+#logo img {
+	width: 150px;
+	margin-top: 20px;
+}
+
+#selfie img {
+	border: 8px solid #FAF3BC;
+	height: 279px;
+}
+
 #intro {
 	margin: 50px 0 75px 0;
 }
 
 #new-cupcakes img {
 	border: 8px solid #FAF3BC;
-	margin: 0 0 20px 0;
+	margin: 0px 0px 5px 0px;
+	height: 160px;
 }
 
 #featured-cupcake img {
 	border: 8px solid #FAF3BC;
+	/*height: 360px;*/
+	width: 555px;
+
 }
 
 #copyright {
