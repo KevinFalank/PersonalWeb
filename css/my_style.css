@@ -30,8 +30,8 @@ h2 {
 }
 
 .btn:hover{
-	background-color: #4CC4A7;
-	/*text-decoration: underline;*/
+	/*background-color: #4CC4A7;*/
+	text-decoration: underline;
 }
 
 ul.nav {
