@@ -1,7 +1,8 @@
 body {
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Share Tech Mono', sans-serif;
 	color: #FAF3BC;
 	background: #420600 url('img/bg-texture.jpg') repeat;
+	/*background: #003333;*/
 }
 
 a {
@@ -30,6 +31,7 @@ h2 {
 
 .btn:hover{
 	background-color: #4CC4A7;
+	/*text-decoration: underline;*/
 }
 
 ul.nav {
@@ -58,12 +60,13 @@ ul.nav li a {
 }
 
 #intro {
-	margin: 50px 0 75px 0;
+	margin: 25px 0 75px 0;
+	font-family: 'Neucha', sans-serif;
 }
 
 #new-cupcakes img {
 	border: 8px solid #FAF3BC;
-	margin: 0px 0px 5px 0px;
+	margin: 20px 0px 5px 0px;
 	height: 160px;
 }
 
