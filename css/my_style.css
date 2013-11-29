@@ -1,8 +1,8 @@
 body {
 	font-family: 'Share Tech Mono', sans-serif;
 	color: #FAF3BC;
-	background: #420600 url('img/bg-texture.jpg') repeat;
-	/*background: #003333;*/
+	/*background: #420600 url('img/bg-texture.jpg') repeat;*/
+	background: #003333;
 }
 
 a {
